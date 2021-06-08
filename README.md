@@ -1,6 +1,6 @@
 #DevOps Bootcamp
 
-##Introduction to DevOps and why DevOps/benfits
+#Introduction to DevOps and why DevOps/benfits
 -
 -
 -

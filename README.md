@@ -1,6 +1,6 @@
 #DevOps Bootcamp
 
-##Introduction to DevOps and why DevOps/benfits
+#Introduction to DevOps and why DevOps/benfits
 -
 -
 -
@@ -15,7 +15,7 @@
 - Who am I `uname -a`
 - Where am I `pwd`
 - Create file `touch name_of_the_file` or `nano file_name` you land inside the file
-- Exit from nano `^X` then `Y` then `enter`
+- Exit from nano `^X` then `Y` then `enter`(Mac keyboard)
 - List all `ls -a` or `ls`
 - To see the content of the file on terminal `cat file_name`
 - Clear your screen `clear`

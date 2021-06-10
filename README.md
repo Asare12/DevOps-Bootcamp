@@ -148,8 +148,10 @@ The key's randomart image is:
 |.  oo.o .        |
 +-----------------+
 ```
-Your private key is saved to the id_rsa file in the .ssh directory and is used to verify the public key you use belongs to the same Triton Compute Service account.
+Your private key is saved to the id_rsa file in the .ssh directory and is used to verify the public key you use belongs to the same github account.
 
 **Never share your private key with anyone!**
+
+Your public key is saved to the id_rsa.pub;file and is the key you upload to your github account. You can save this key to the clipboard by saving it in your github settings
 
 

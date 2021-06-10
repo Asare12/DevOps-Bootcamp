@@ -1,6 +1,6 @@
-#DevOps Bootcamp
+# DevOps Bootcamp
 
-#Introduction to DevOps and why DevOps/benfits
+# Introduction to DevOps and why DevOps/benfits
 -
 -
 -
@@ -8,7 +8,7 @@
 -
 -
 
-#Linux commands that also works on bash
+# Linux commands that also works on bash
 - Create a Dir `mkdir name_of_dir`
 - Go inside the Dir `cd name of the dir`
 - Come out of the Dir `cd ..` or ``cd``

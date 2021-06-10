@@ -114,6 +114,11 @@ chmod has permission arguments that are made up of 3 components
 
 There are two ways you can use chmod and you will see both used. One is shorter and one is more descriptive.
 
+## Enviroment Variables
+- To create a envi
+
+`~/.bashrc`, `~/.profile`, `~/.bash_profile`
+
 ## Manually generating your SSH key in macOS
 To generate SSH keys in macOS, follow these steps:
 
@@ -121,3 +126,5 @@ To generate SSH keys in macOS, follow these steps:
  ```
  ssh-keygen -t rsa
  ```
+ This starts the key generation process. When you execute this command, the ssh-keygen utility prompts you to indicate where to store the key.
+2. Press the ENTER key to accept the default location. The ssh-keygen utility prompts you for a passphrase. 

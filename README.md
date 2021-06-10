@@ -118,5 +118,6 @@ There are two ways you can use chmod and you will see both used. One is shorter 
 To generate SSH keys in macOS, follow these steps:
 
 1. Enter the following command in the Terminal window.
- ```ssh-keygen -t rsa
+ ```
+ ssh-keygen -t rsa
  ```

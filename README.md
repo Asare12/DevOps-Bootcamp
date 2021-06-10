@@ -127,3 +127,6 @@ To generate SSH keys in macOS, follow these steps:
  ssh-keygen -t rsa
  ```
 2. Press the ENTER key to accept the default location. The ssh-keygen utility prompts you for a passphrase. 
+3. Type in a passphrase. You can also hit the ENTER key to accept the default (no passphrase). However, this is not recommended.
+
+After you confirm the passphrase, the system generates the key pair.

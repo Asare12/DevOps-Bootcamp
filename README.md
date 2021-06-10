@@ -115,3 +115,8 @@ chmod has permission arguments that are made up of 3 components
 There are two ways you can use chmod and you will see both used. One is shorter and one is more descriptive.
 
 ## Manually generating your SSH key in macOS
+To generate SSH keys in macOS, follow these steps:
+
+1. Enter the following command in the Terminal window.
+Markup : ```javascript
+         ```

@@ -149,6 +149,7 @@ The key's randomart image is:
 +-----------------+
 ```
 Your private key is saved to the id_rsa file in the .ssh directory and is used to verify the public key you use belongs to the same Triton Compute Service account.
+
 **Never share your private key with anyone!**
 
 

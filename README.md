@@ -130,3 +130,21 @@ To generate SSH keys in macOS, follow these steps:
 3. Type in a passphrase. You can also hit the ENTER key to accept the default (no passphrase). However, this is not recommended.
 
 After you confirm the passphrase, the system generates the key pair.
+```
+Your identification has been saved in /Users/myname/.ssh/id_rsa.
+Your public key has been saved in /Users/myname/.ssh/id_rsa.pub.
+The key fingerprint is:
+ae:89:72:0b:85:da:5a:f4:7c:1f:c2:43:fd:c6:44:38 myname@mymac.local
+The key's randomart image is:
++--[ RSA 2048]----+
+|                 |
+|         .       |
+|        E .      |
+|   .   . o       |
+|  o . . S .      |
+| + + o . +       |
+|. + o = o +      |
+| o...o * o       |
+|.  oo.o .        |
++-----------------+
+```

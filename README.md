@@ -119,4 +119,4 @@ To generate SSH keys in macOS, follow these steps:
 
 1. Enter the following command in the Terminal window.
  ```ssh-keygen -t rsa
-         ```
+ ```

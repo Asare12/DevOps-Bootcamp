@@ -51,6 +51,13 @@ chmod has permission arguments that are made up of 3 components
 
 There are two ways you can use chmod and you will see both used. One is shorter and one is more descriptive.
 
+The privileges are summed up and depicted by one number. Therefore, the possibilities are:
+
+- 7 – for read, write, and execute permission
+- 6 – for read and write privileges
+- 5 – for read and execute privileges
+- 4 – for read privileges
+
 [Reference](https://phoenixnap.com/kb/linux-file-permissions)
 
 ## Environment Variables

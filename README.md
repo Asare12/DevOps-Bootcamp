@@ -119,6 +119,12 @@ There are two ways you can use chmod and you will see both used. One is shorter 
 
 `~/.bashrc`, `~/.profile`, `~/.bash_profile`
 
+- Per-user shell specific configuration files. For example, if you are using Bash, you can declare the variables in the `~/.bashrc`:
+```
+export PATH="$HOME/bin:$PATH"
+```
+
+
 ## Manually generating your SSH key in macOS
 To generate SSH keys in macOS, follow these steps:
 

@@ -188,6 +188,9 @@ Your private key is saved to the id_rsa file in the .ssh directory and is used t
 
 **Never share your private key with anyone!**
 
-Your public key is saved to the id_rsa.pub;file and is the key you upload to your github account. You can save this key to the clipboard by saving it in your github settings
+- go to your GitHub profile and go to Settings
+- go to the SSH keys
+- Click Add SSH key, enter the contents of the id_rsa.pub file
+- Enter GitHub password when prompted
 
 

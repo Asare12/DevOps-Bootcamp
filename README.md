@@ -150,7 +150,10 @@ To make Environment variables persistent you need to define those variables in t
 ```
 export PATH="$HOME/bin:$PATH"
 ```
-
+To load the new environment variables into the current shell session use the `source` command:
+```
+source ~/.bashrc
+```
 
 ## Manually generating your SSH key in macOS
 To generate SSH keys in macOS, follow these steps:

@@ -39,6 +39,8 @@ To view permissions for a file we use the long listing option for the command ls
 
 ls -l [path]
 
+[Linux File Permission Tutorial](https://phoenixnap.com/kb/linux-file-permissions)
+
 ### Change Permissions
 
 To change permissions on a file or directory we use a command called "chmod" It stands for change file mode bits which is a bit of a mouthfull but think of the mode bits as the permission indicators.

@@ -114,11 +114,38 @@ chmod has permission arguments that are made up of 3 components
 
 There are two ways you can use chmod and you will see both used. One is shorter and one is more descriptive.
 
-## Enviroment Variables
+## Environment Variables
 - To create a envi
 
 `~/.bashrc`, `~/.profile`, `~/.bash_profile`
 
+#### List Environment Variables
+To display the value of the HOME environment variable you would run:
+```
+printenv HOME
+```
+If you run the `printenv` or `env` command without any arguments it will show a list of all environment variables
+
+#### Setting Environment Variables
+To create a new shell variable with the name `MY_VAR` and value `Linuxize` simply type:
+```
+MY_VAR='Linuxize'
+```
+You can verify that the variable is set by using either `echo $MY_VAR` of filtering the output of the set command with grep `set | grep MY_VAR`:
+```
+echo $MY_VAR
+```
+```
+Output
+Linuxize
+```
+The `export` command is used to set Environment variables.
+```
+export MY_NEW_VAR="My New Var"
+```
+
+#### Persistent Environment Variables
+To make Environment variables persistent you need to define those variables in the bash configuration files.
 - Per-user shell specific configuration files. For example, if you are using Bash, you can declare the variables in the `~/.bashrc`:
 ```
 export PATH="$HOME/bin:$PATH"

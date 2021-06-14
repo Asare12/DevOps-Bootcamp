@@ -141,8 +141,7 @@ Your private key is saved to the id_rsa file in the .ssh directory and is used t
 
 ## Diagrams
 ### Flow Diagram for Vagrant
-![Image of flow diagram for vagrant]
-(https://github.com/Asare12/DevOps-Bootcamp/blob/master/images/flowdiagram.png)
+![Image of flow diagram for vagrant](https://github.com/Asare12/DevOps-Bootcamp/blob/master/images/flowdiagram.png)
 
 
 

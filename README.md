@@ -2,6 +2,11 @@
 
 # Introduction to DevOps and why DevOps/benfits
 - ## [Intro presentation to DevOps](https://docs.google.com/presentation/d/1_rAENa61aIOGAu98bSSqd7IDKVRM3B4Lkn7wbYI5C34/edit?usp=sharing)
+- Breaking down silos and bringing developers and operations closer together
+- Share responsibilities
+- Deploy infrastructure as code
+- Automate the deployment pipleine as much as possible
+- Supported by strong CI/CD pratices
 
 ## Permissions
 
@@ -133,5 +138,11 @@ Your private key is saved to the id_rsa file in the .ssh directory and is used t
 - go to the SSH keys
 - Click Add SSH key, enter the contents of the id_rsa.pub file
 - Enter GitHub password when prompted
+
+## Diagrams
+### Flow Diagram for Vagrant
+![Image of flow diagram for vagrant]
+(https://github.com/Asare12/DevOps-Bootcamp/blob/master/images/flowdiagram.png)
+
 
 

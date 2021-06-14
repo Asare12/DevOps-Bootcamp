@@ -1,7 +1,7 @@
 # DevOps Bootcamp
 
 # Introduction to DevOps and why DevOps/benfits
-- ## [Intro presentation](https://docs.google.com/presentation/d/1_rAENa61aIOGAu98bSSqd7IDKVRM3B4Lkn7wbYI5C34/edit?usp=sharing)
+- ## [Intro presentation to DevOps](https://docs.google.com/presentation/d/1_rAENa61aIOGAu98bSSqd7IDKVRM3B4Lkn7wbYI5C34/edit?usp=sharing)
 
 ## Permissions
 

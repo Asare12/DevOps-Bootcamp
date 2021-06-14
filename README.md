@@ -100,6 +100,25 @@ To load the new environment variables into the current shell session use the `so
 ```
 source ~/.bashrc
 ```
+## How to reverse proxy
+[How to reverse proxy](https://phoenixnap.com/kb/nginx-reverse-proxy)
+### What you enter in your conf file
+```
+server {
+	listen 80;
+
+	server_name _;
+
+	location / {
+		proxy_pass http://192.168.10.100:3000;
+		proxy_http_version 1.1;
+		proxy_set_header Upgrade $http_upgrade;
+		proxy_set_header Connection 'upgrade';
+		proxy_set_header Host $host;
+		proxy_cache_bypass $http_upgrade;
+	}
+}
+```
 
 ## Manually generating your SSH key in macOS
 To generate SSH keys in macOS, follow these steps:

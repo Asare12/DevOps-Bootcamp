@@ -16,3 +16,5 @@
 - ## [AWS service: S3 bucket](https://github.com/Asare12/AWS-S3-Task) 
 
 
+![Devops](https://github.com/Asare12/DevOps-Bootcamp/blob/master/images/DevOps-Gear.png)
+
